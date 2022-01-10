@@ -1,5 +1,5 @@
-upgrade pip
-upgrade setuptools
+pip
+setuptools
 pytest
 pylint
 jupyter
