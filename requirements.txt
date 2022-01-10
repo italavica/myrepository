@@ -1,5 +1,3 @@
-pip
-setuptools
 pytest
 pylint
 jupyter
